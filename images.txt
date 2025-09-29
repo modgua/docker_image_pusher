@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 nginx:stable-perl 
 #支持指定架构
---platform=linux/arm64
+--platform=linux/s390x
 
 
 
