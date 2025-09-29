@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 nginx:stable
---platform=linux/amd64
+#--platform=linux/amd64
